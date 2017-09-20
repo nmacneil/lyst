@@ -1,10 +1,10 @@
 <?php 
 
 	error_reporting(0);//to hide silly warnings that don't matter :)
-	 $server = 'mysql.cs.mun.ca';
-	 $user = 'cs3715w17_cag635';
-	 $password = '%a!FAxXv';
-	$dbName = 'cs3715w17_cag635';
+	 $server = '***************';
+	 $user = '*****************';
+	 $password = '************';
+	$dbName = '*************';
 
 	$con = mysqli_connect($server, $user, $password);
 
