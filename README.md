@@ -3,8 +3,8 @@ to-do list web application
 
 Authors:
 
-Natahn Macniel
+Nathan MacNeil
 
 Christian Goodridge
 
-Eric Roy Eli
+Eric Roy Elli
